@@ -4,7 +4,7 @@ public class JavaGitTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(" Java Git Integration at AWS EC2 updated");
+		System.out.println(" Java Git Integration at AWS EC2");
 	}
 
 }
